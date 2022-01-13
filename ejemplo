@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Posicionaminento</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    </head>
+    <body>
+        <img src="imagenes/xd1.jpg" alt="cosa1"/>
+        <img src="imagenes/xd2.jpg" alt="cosa2"/>
+        <img src="imagenes/xd3.jpg" alt="cosa3"/>
+        <img src="imagenes/xd4.jpg" alt="cosa4"/>
+    
+    </body>
+</html>
